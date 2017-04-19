@@ -28,10 +28,12 @@
   "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
   "dependencies": {
     "native-base": "0.5.18",
+    "underscore": "^1.8.3"
+  },
+  "peerDependencies": {
     "react": "15.4.0",
     "react-native": "0.38.0",
-    "react-native-vector-icons": "2.1.0",
-    "underscore": "^1.8.3"
+    "react-native-vector-icons": "2.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
